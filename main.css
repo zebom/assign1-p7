@@ -1,0 +1,127 @@
+body{
+    background-image: url(images/lion.png);
+    background-repeat: no-repeat;
+    background-color: palevioletred;
+}
+nav{
+    display: flex;
+   
+    
+    
+}
+nav a{
+    margin-right: 2px;
+    color: palevioletred;
+    background-color: white;
+    text-decoration: none;
+    line-height: 50px;
+    font-weight: bold;
+    
+}
+h2{
+    color: white;
+    padding-left: 50px;
+}
+p{
+    padding-left: 50px;
+}
+form{
+    padding-left: 50px;
+}
+/*text4{
+    display: flex;
+}
+.container{
+    position: relative;
+    
+}
+.text1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 500px;
+
+
+}
+.text11{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 520px;
+    padding-left: 100px;
+
+}
+.text11{
+    z-index: 1;
+}
+.second{
+    position: relative;
+
+}
+.text2{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+   
+}
+.tex22{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding-top: 520px;
+    padding-left: 100px;
+
+}
+.text2{
+    z-index: o;
+
+}
+.text22{
+    z-index: 1;
+}
+.third{
+    position: relative;
+}
+.text3{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+   
+
+}
+.text33{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding-top: 520px;
+    padding-left: 100px;
+}
+.text33{
+    z-index: 1;
+}*/
+.text2{
+    display: flex;
+    
+    
+   
+}
+.text1{
+    height: 295px;
+    width: 310px;
+   
+}
+img{
+    margin-left: 90px;
+    
+}
+
+
+
+
+
+
+
+   
+    
+    
+
